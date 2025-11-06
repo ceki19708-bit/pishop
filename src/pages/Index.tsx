@@ -194,7 +194,7 @@ const Index = () => {
             
             {/* Desktop Navigation */}
             <nav className="hidden lg:flex items-center space-x-8">
-              <a href="#home" className="nav-link text-gray-700 hover:text-primary">Home</a>
+              <a  className="nav-link text-gray-700 hover:text-primary">Home</a>
               <a href="#products" className="nav-link text-gray-700 hover:text-primary">Products</a>
               <a href="#features" className="nav-link text-gray-700 hover:text-primary">Features</a>
               <a href="#testimonials" className="nav-link text-gray-700 hover:text-primary">Reviews</a>
